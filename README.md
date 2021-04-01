@@ -311,3 +311,14 @@ insert into paymentReport values('test111','OV19980708NO20210107,OV20100916SF202
 insert into paymentReport values('test111','OV19980708NO20210107,OV20100916SF20210110,KO20160810NO20210110','마리아에게,멈춰진시간,풀과 바람이야기','OV19980708NO20210107.jpg,OV20100916SF20210110.jpg,KO20160810NO20210110.jpg','1,2,1','13000,17000,16000','경기도',SYSDATE);
 commit;
 ```
+<br>
+
+# 주요화면
+
+![캡처](https://user-images.githubusercontent.com/81599227/113293088-4af1b580-9330-11eb-83a6-5b02797c645f.PNG)
+**메인화면**
+<br>
+
+![캡처](https://user-images.githubusercontent.com/81599227/113293421-b3409700-9330-11eb-80af-5fd92f26ae6f.PNG)
+**검색창 '마'로 검색 후 이동한 화면**
+<br>
