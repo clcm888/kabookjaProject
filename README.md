@@ -7,7 +7,7 @@
 - 인코딩(MS949)
 - Spring
 - bootstrap
-<br>
+***
 
 ## OracleDriverManager 설정파일
 - kabookjaDBConn.java
@@ -317,8 +317,16 @@ commit;
 
 ![캡처](https://user-images.githubusercontent.com/81599227/113293088-4af1b580-9330-11eb-83a6-5b02797c645f.PNG)
 **메인화면**
-<br>
+<hr>
 
 ![캡처](https://user-images.githubusercontent.com/81599227/113293421-b3409700-9330-11eb-80af-5fd92f26ae6f.PNG)
 **검색창 '마'로 검색 후 이동한 화면**
-<br>
+<hr>
+
+![캡처](https://user-images.githubusercontent.com/81599227/113294377-dcadf280-9331-11eb-9c0c-43857def9299.PNG)
+**장바구니 화면**
+<hr>
+
+![캡처](https://user-images.githubusercontent.com/81599227/113294502-0404bf80-9332-11eb-9d40-11d3f0042abc.PNG)
+**고객센터 화면**
+<hr>
