@@ -5,6 +5,8 @@
 - eclipse photon버전
 - OracleDB
 - 인코딩(MS949)
+- Spring
+- bootstrap
 <br>
 
 ## OracleDriverManager 설정파일
